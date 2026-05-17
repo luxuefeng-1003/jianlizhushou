@@ -3,13 +3,6 @@
 基于 DeepSeek API + STAR法则的简历优化工具，输入岗位和经历，AI帮你生成专业简历内容。
 
 ## 快速开始
-
-### 1. 配置 API Key
-
-编辑 `backend/.env`，填入你的 DeepSeek API Key（或在启动时设置环境变量）：
-
-```bash
-export DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxx
 ```
 
 > 获取地址: https://platform.deepseek.com/api_keys
